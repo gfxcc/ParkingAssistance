@@ -22,7 +22,7 @@
     label.textAlignment = NSTextAlignmentCenter;
     label.numberOfLines = 0;
     label.textColor = [UIColor grayColor];
-    label.text = @"ParkingAssistance developed by gfxcc.\nThis guy is lazy. He left nothing.";
+    label.text = @"ParkingAssistance developed by yong@stevens. You can get source code from GitHub https://github.com/gfxcc";
     [self.view addSubview:label];
     
 }

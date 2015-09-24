@@ -87,6 +87,9 @@
     tableView.dataSource = self;
     [self.view addSubview:tableView];
     
+    tableView.hidden = YES;
+    status.hidden = YES;
+    TopBorder.hidden = YES;
     
 }
 

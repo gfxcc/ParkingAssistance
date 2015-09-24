@@ -43,9 +43,6 @@
 		DB6931631A88658F00CCDBDA /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = DB6931621A88658F00CCDBDA /* UIKit.framework */; };
 		DB6931651A88659500CCDBDA /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = DB6931641A88659500CCDBDA /* Foundation.framework */; };
 		DB69316B1A89A51900CCDBDA /* ParkingInf in Resources */ = {isa = PBXBuildFile; fileRef = DB69316A1A89A51900CCDBDA /* ParkingInf */; };
-		DB69316E1A8B17FA00CCDBDA /* navigation-2.png in Resources */ = {isa = PBXBuildFile; fileRef = DB69316C1A8B17FA00CCDBDA /* navigation-2.png */; };
-		DB69316F1A8B17FA00CCDBDA /* navigation.png in Resources */ = {isa = PBXBuildFile; fileRef = DB69316D1A8B17FA00CCDBDA /* navigation.png */; };
-		DB6931711A8C08C400CCDBDA /* Icon.png in Resources */ = {isa = PBXBuildFile; fileRef = DB6931701A8C08C400CCDBDA /* Icon.png */; };
 		DB6931731A8C0ECC00CCDBDA /* EventKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = DB6931721A8C0ECC00CCDBDA /* EventKit.framework */; };
 		DB8A61211AA560ED0067ECDF /* Marlboro.ttf in Resources */ = {isa = PBXBuildFile; fileRef = DB8A61201AA560ED0067ECDF /* Marlboro.ttf */; };
 		DB8A61231AA64D450067ECDF /* Pamela want a Bike to Ride.ttf in Resources */ = {isa = PBXBuildFile; fileRef = DB8A61221AA64D450067ECDF /* Pamela want a Bike to Ride.ttf */; };
@@ -66,6 +63,9 @@
 		DBE40FA91AAA554C00AFC0EF /* AboutDeveloperViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = DBE40FA81AAA554C00AFC0EF /* AboutDeveloperViewController.m */; };
 		DBE40FAC1AAA614400AFC0EF /* AdditionalFunctionsViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = DBE40FAB1AAA614400AFC0EF /* AdditionalFunctionsViewController.m */; };
 		DBE40FAF1AAA623400AFC0EF /* NotificationTimeViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = DBE40FAE1AAA623400AFC0EF /* NotificationTimeViewController.m */; };
+		DBE5C54F1BA8A5340050A5B1 /* icon.png in Resources */ = {isa = PBXBuildFile; fileRef = DBE5C54E1BA8A5340050A5B1 /* icon.png */; };
+		DBE5C5531BA8A9100050A5B1 /* icon@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = DBE5C5511BA8A9100050A5B1 /* icon@3x.png */; };
+		DBE5C5541BA8A9100050A5B1 /* icon@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = DBE5C5521BA8A9100050A5B1 /* icon@2x.png */; };
 		DBFD49F51AAE679D00AD10B4 /* CoreImage.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = DBFD49F41AAE679D00AD10B4 /* CoreImage.framework */; };
 		DBFD49F91AAE684400AD10B4 /* ZSPinAnnotation.m in Sources */ = {isa = PBXBuildFile; fileRef = DBFD49F81AAE684400AD10B4 /* ZSPinAnnotation.m */; };
 		DBFD49FC1AAE685400AD10B4 /* ZSAnnotation.m in Sources */ = {isa = PBXBuildFile; fileRef = DBFD49FB1AAE685400AD10B4 /* ZSAnnotation.m */; };
@@ -138,9 +138,6 @@
 		DB6931641A88659500CCDBDA /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		DB6931691A899F4F00CCDBDA /* Inf.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Inf.h; sourceTree = "<group>"; };
 		DB69316A1A89A51900CCDBDA /* ParkingInf */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = ParkingInf; path = ParkingAssistance/ParkingInf; sourceTree = "<group>"; };
-		DB69316C1A8B17FA00CCDBDA /* navigation-2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "navigation-2.png"; path = "../../Downloads/navigation-2.png"; sourceTree = "<group>"; };
-		DB69316D1A8B17FA00CCDBDA /* navigation.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = navigation.png; path = ../../Downloads/navigation.png; sourceTree = "<group>"; };
-		DB6931701A8C08C400CCDBDA /* Icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Icon.png; sourceTree = "<group>"; };
 		DB6931721A8C0ECC00CCDBDA /* EventKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = EventKit.framework; path = System/Library/Frameworks/EventKit.framework; sourceTree = SDKROOT; };
 		DB8A61201AA560ED0067ECDF /* Marlboro.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = Marlboro.ttf; sourceTree = "<group>"; };
 		DB8A61221AA64D450067ECDF /* Pamela want a Bike to Ride.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Pamela want a Bike to Ride.ttf"; sourceTree = "<group>"; };
@@ -168,6 +165,9 @@
 		DBE40FAB1AAA614400AFC0EF /* AdditionalFunctionsViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AdditionalFunctionsViewController.m; sourceTree = "<group>"; };
 		DBE40FAD1AAA623400AFC0EF /* NotificationTimeViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NotificationTimeViewController.h; sourceTree = "<group>"; };
 		DBE40FAE1AAA623400AFC0EF /* NotificationTimeViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = NotificationTimeViewController.m; sourceTree = "<group>"; };
+		DBE5C54E1BA8A5340050A5B1 /* icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon.png; sourceTree = "<group>"; };
+		DBE5C5511BA8A9100050A5B1 /* icon@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon@3x.png"; sourceTree = "<group>"; };
+		DBE5C5521BA8A9100050A5B1 /* icon@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon@2x.png"; sourceTree = "<group>"; };
 		DBFD49F41AAE679D00AD10B4 /* CoreImage.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreImage.framework; path = System/Library/Frameworks/CoreImage.framework; sourceTree = SDKROOT; };
 		DBFD49F71AAE684400AD10B4 /* ZSPinAnnotation.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZSPinAnnotation.h; sourceTree = "<group>"; };
 		DBFD49F81AAE684400AD10B4 /* ZSPinAnnotation.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZSPinAnnotation.m; sourceTree = "<group>"; };
@@ -359,6 +359,8 @@
 		DB6931661A8865EC00CCDBDA /* Source */ = {
 			isa = PBXGroup;
 			children = (
+				DBE5C5501BA8A7560050A5B1 /* icon */,
+				DBE5C54E1BA8A5340050A5B1 /* icon.png */,
 				DBFD49FD1AAE7C2600AD10B4 /* arrow right.png */,
 				DB1D3F701AA8C291009BA167 /* setting.png */,
 				DB8A61221AA64D450067ECDF /* Pamela want a Bike to Ride.ttf */,
@@ -374,13 +376,19 @@
 				DB34166C1A93A15A00329BD7 /* shield.png */,
 				DB3416601A92957A00329BD7 /* NotifyCheck.png */,
 				DB34165A1A926EF200329BD7 /* new arrow.png */,
-				DB6931701A8C08C400CCDBDA /* Icon.png */,
-				DB69316C1A8B17FA00CCDBDA /* navigation-2.png */,
-				DB69316D1A8B17FA00CCDBDA /* navigation.png */,
 				DB69316A1A89A51900CCDBDA /* ParkingInf */,
 				DBD4A1F71A9D325C0017C54C /* notification */,
 			);
 			name = Source;
+			sourceTree = "<group>";
+		};
+		DBE5C5501BA8A7560050A5B1 /* icon */ = {
+			isa = PBXGroup;
+			children = (
+				DBE5C5511BA8A9100050A5B1 /* icon@3x.png */,
+				DBE5C5521BA8A9100050A5B1 /* icon@2x.png */,
+			);
+			name = icon;
 			sourceTree = "<group>";
 		};
 		DBFD49F61AAE67DE00AD10B4 /* ZSPinAnnotation */ = {
@@ -497,7 +505,6 @@
 				DB34166D1A93A15A00329BD7 /* shield.png in Resources */,
 				DB69313F1A88654F00CCDBDA /* Main.storyboard in Resources */,
 				DB1D3F711AA8C291009BA167 /* setting.png in Resources */,
-				DB69316F1A8B17FA00CCDBDA /* navigation.png in Resources */,
 				DB4FADAC1AA2314F0063F2E8 /* NotificationBackgroundErrorIcon@2x.png in Resources */,
 				DB4FADAF1AA2314F0063F2E8 /* NotificationBackgroundSuccess.png in Resources */,
 				DB4FADB81AA2314F0063F2E8 /* NotificationButtonBackground@2x.png in Resources */,
@@ -510,12 +517,12 @@
 				DB4FADB21AA2314F0063F2E8 /* NotificationBackgroundSuccessIcon@2x.png in Resources */,
 				DB4FADB11AA2314F0063F2E8 /* NotificationBackgroundSuccessIcon.png in Resources */,
 				DB4FADAD1AA2314F0063F2E8 /* NotificationBackgroundMessage.png in Resources */,
+				DBE5C5531BA8A9100050A5B1 /* icon@3x.png in Resources */,
 				DB8A61211AA560ED0067ECDF /* Marlboro.ttf in Resources */,
+				DBE5C5541BA8A9100050A5B1 /* icon@2x.png in Resources */,
 				DB4FADA91AA2314F0063F2E8 /* NotificationBackgroundError.png in Resources */,
 				DBFD4A1F1AAE981600AD10B4 /* parkinglog2.PNG in Resources */,
 				DB9F20E31A9FEC4F006D209B /* parking-icon.png in Resources */,
-				DB6931711A8C08C400CCDBDA /* Icon.png in Resources */,
-				DB69316E1A8B17FA00CCDBDA /* navigation-2.png in Resources */,
 				DBD4A1F41A9B9FAB0017C54C /* E.png in Resources */,
 				DB4FADB61AA2314F0063F2E8 /* NotificationBackgroundWarningIcon@2x.png in Resources */,
 				DB9F20E51A9FFB04006D209B /* caricon.png in Resources */,
@@ -533,6 +540,7 @@
 				DBD4A1E41A9AE8A50017C54C /* new shield.png in Resources */,
 				DB8A61231AA64D450067ECDF /* Pamela want a Bike to Ride.ttf in Resources */,
 				DBFD4A091AAE942100AD10B4 /* arrow.png in Resources */,
+				DBE5C54F1BA8A5340050A5B1 /* icon.png in Resources */,
 				DB6931411A88654F00CCDBDA /* Images.xcassets in Resources */,
 				DBFD4A1B1AAE981600AD10B4 /* notification2.PNG in Resources */,
 				DB4FADAA1AA2314F0063F2E8 /* NotificationBackgroundError@2x.png in Resources */,
@@ -696,7 +704,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				CODE_SIGN_IDENTITY = "iPhone Developer";
+				CODE_SIGN_IDENTITY = "iPhone Distribution: Yong Cao (QRVGNC7P3Q)";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				INFOPLIST_FILE = ParkingAssistance/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
@@ -709,7 +717,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				CODE_SIGN_IDENTITY = "iPhone Developer";
+				CODE_SIGN_IDENTITY = "iPhone Distribution: Yong Cao (QRVGNC7P3Q)";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				INFOPLIST_FILE = ParkingAssistance/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
